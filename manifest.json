@@ -1,7 +1,9 @@
+{
 "manifest_version": 3,
 "name": "Search",
 "version": 0.0.1
 "description": "Easy access to more search engines",
 "action": {
   "default_popup": "popup.html",
+}
 }
